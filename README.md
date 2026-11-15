@@ -87,9 +87,10 @@ Streamlit Cloud exposes top-level secrets as environment variables, so the same 
 - English-language prompts only.
 
 ## Contributors
-| Name | Contribution |
+| Name: Francis Ocran| Contribution: Developer |
 |---|---|
 | _Your name_ | _e.g. validation logic, Streamlit interface, AI integration, tests_ |
+## App link:  https://farm-records-assistant-axcbjykqkzsr4dhuvqkzez.streamlit.app/
 
 ## Suggested commit history
 `Add sample and flawed CSV files` → `Add validation logic with tests` → `Add summaries, filters and charts` →
