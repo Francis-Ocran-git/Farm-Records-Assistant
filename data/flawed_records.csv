@@ -1,0 +1,11 @@
+date,crop,harvested_kg,sales_revenue_ghs,expenses_ghs
+2025-03-03,Maize,80,640,170
+2025-03-03,Maize,80,640,170
+2025-03-04,Cassava,forty,300,100
+2025-03-05,Tomato,25,,110
+2025-03-06,Yam,30,300,-120
+not a date,Maize,55,440,130
+2025-03-11,,45,225,80
+2025-03-12,tomato,20,340,100
+2025-03-12,Tomato,22,360,105
+2025-03-13,Yam,35,280,110
